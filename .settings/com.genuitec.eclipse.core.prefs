@@ -1,0 +1,4 @@
+#Wed Aug 07 08:49:31 CST 2013
+eclipse.preferences.version=1
+validator.Checked=/,WebRoot/arcgis_js_api/library/3.4/3.4/js/dojo/dojox/gfx/demos/clipping.html,WebRoot/arcgis_js_api/library/3.4/3.4/js/dojo/dojo/dojo.js,WebRoot/arcgis_js_api/library/3.4/3.4/js/dojo/dojox/calc/_ExecutorIframe.html,WebRoot/arcgis_js_api/library/3.4/3.4/js/dojo/dojox/gfx/resources/svg2gfx.xsl
+validator.Unchecked=WebRoot
